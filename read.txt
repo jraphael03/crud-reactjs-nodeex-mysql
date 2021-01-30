@@ -1,8 +1,13 @@
 CLIENT
 npx create-react-app .
+npm install axios
 
 
 SERVER
-
-
+npm init -y
+npm install express
+npm body-parser
+npm install mysql
+npm install nodemon
+npm install cors
 
